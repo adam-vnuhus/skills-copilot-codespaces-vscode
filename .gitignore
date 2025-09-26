@@ -35,3 +35,31 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Maven #
+#########
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# IDE #
+#######
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+
+# Spring Boot #
+###############
+application-*.properties
+!application.properties
